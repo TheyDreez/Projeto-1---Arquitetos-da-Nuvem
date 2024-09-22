@@ -1,6 +1,5 @@
-# Projeto-1---Arquitetos-da-Nuvem
 Projeto de Configuração de Rede para Show da Banda de Miguel
-Descrição do Projeto
+
 Este projeto tem como objetivo configurar uma rede de computadores para melhorar a comunicação entre os membros da equipe de produção durante o show da banda de Miguel. Utilizando o Cisco Packet Tracer, criamos uma topologia de rede em estrela que permite a todos os membros da equipe se comunicarem facilmente.
 
 Estrutura da Rede
